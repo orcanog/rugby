@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Ajinomoto Stadium",
+        "location": "Tokyo"
+    },
+    {
+        "id": 2,
+        "name": "Toyota Stadium",
+        "location": "Toyota"
+    },
+    {
+        "id": 3,
+        "name": "Noevir Stadium Kobe",
+        "location": "Kobe"
+    },
+    {
+        "id": 4,
+        "name": "Best Denki Stadium",
+        "location": "Fukuoka"
+    }
+]
